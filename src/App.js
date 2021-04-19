@@ -32,7 +32,6 @@ const texto = [
       {Array.from(texto).map(t => {
         
       return <Linea
-         
          texto = {t}
       />
       })}
